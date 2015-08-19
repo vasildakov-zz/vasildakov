@@ -12,5 +12,8 @@
  */
 
 return array(
-    // ...
+   'module_layouts' => array(
+       'Application' => 'layout/layout.phtml',
+       'Photography' => 'layout/photography.phtml',
+   ),
 );
